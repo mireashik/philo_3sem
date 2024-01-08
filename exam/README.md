@@ -151,7 +151,7 @@
 
 ![image](https://github.com/mireashik/philo_3sem/assets/49165758/8a3e2a28-1dca-4414-8eb4-8e6e0eb968a0)
 
-Итоги: https://filosofia.fandom.com/ru/wiki/Философская система Гегеля
+Итоги: https://filosofia.fandom.com/ru/wiki/Философская_система_Гегеля
 
 ## 15. Социально-философские взгляды К. Маркса и Ф. Энгельса.
 ## 16. Философский иррационализм ХIХ века (А. Шопенгауэр, Ф. Ницше).
